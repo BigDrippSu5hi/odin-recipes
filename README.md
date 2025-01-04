@@ -6,10 +6,4 @@ testing to see if I set this up correctly
 
 Hopefully this was correct lol
 
-hmm
-hmmm
-ha
-ba
-da 
-la
-ja
+I think I'm starting to get the hang of it
