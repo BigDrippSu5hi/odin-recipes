@@ -5,3 +5,5 @@ git commit
 testing to see if I set this up correctly
 
 Hopefully this was correct lol
+git commit
+hmm
